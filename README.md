@@ -29,4 +29,4 @@
 <br/>
 <br/>
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niklauschangliu&bg_color=141529&color=9f0af0&line=9f0af0&point=bfabde&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Niklaus' graph](https://github-readme-activity-graph.vercel.app/graph?username=niklauschangliu&bg_color=141529&color=9f0af0&line=9f0af0&point=bfabde&area=true&hide_border=true)
