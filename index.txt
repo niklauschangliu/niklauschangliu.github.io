@@ -43,8 +43,8 @@
 						<h2>Recent Work</h2>
 						<div class="row">
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="https://app.powerbi.com/view?r=eyJrIjoiNjU2OGRkNjYtYmU5YS00OGRjLTkzN2QtYmQ0MGJlYzc5ODg3IiwidCI6IjdkMjM2ODUwLTI2NDAtNGM0MC04MWM5LWFjNTM4MjUyNzgxZSIsImMiOjEwfQ%3D%3D" class="image fit thumb">
-									<img src="images/thumbs/01.jpg" alt="" />
+								<a href="https://app.powerbi.com/view?r=eyJrIjoiNjU2OGRkNjYtYmU5YS00OGRjLTkzN2QtYmQ0MGJlYzc5ODg3IiwidCI6IjdkMjM2ODUwLTI2NDAtNGM0MC04MWM5LWFjNTM4MjUyNzgxZSIsImMiOjEwfQ%3D%3D" target=_self>
+									<img src="01 - instasize.webp" alt="" />
 								</a>
 								<h3>NASDAQ Market Analysis</h3>
 								<p>An insight and analysis into the U.S. Stock Market.</p>
@@ -444,7 +444,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<ul class="icons">
 						<li><a href="https://github.com/niklauschangliu/niklauschangliu.github.io/tree/main" class="icon brands fa-github"><span class="label">Github</span></a></li>
 						<li><a href="https://www.linkedin.com/in/changliuniklaus" class="icon brands fa-linkedin"><span class="label">linkedin</span></a></li>
-						<li><a href="Niklauslc598@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:Niklauslc598@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Niklaus Liu</li><li><a href="https://github.com/niklauschangliu/niklauschangliu.github.io/tree/main">My Github Link</a></li>
