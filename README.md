@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to Niklaus' Portfolio</h1>
 <p align="center"><i>An Introduction of myself</i></p>
     <br>
-    <br>
   </samp>
 </p>
 
@@ -26,7 +25,5 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
-![Niklaus' graph](https://github-readme-activity-graph.vercel.app/graph?username=niklauschangliu&bg_color=141529&color=9f0af0&line=9f0af0&point=bfabde&area=true&hide_border=true)
+
+![Niklaus' graph](https://github-readme-activity-graph.vercel.app/graph?username=niklauschangliu&bg_color=141529&color=9f0af0&line=9f0af0&point=bfabde&area=true)
