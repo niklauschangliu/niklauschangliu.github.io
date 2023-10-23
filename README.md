@@ -9,17 +9,17 @@
 🖥 Completed Google's Advanced Data Professional Certificate, honing my skills further.<br>
     <br>
 <h2>🌟 Professional Experience</h2>
-<p>📊 Served as a Developing Accountant Intern at Dream Unlimited. Inc, where I prepared financial reporting packages, streamlined transaction processes, automated recordings, and contributed significantly to ad-hoc projects.</p>
-<p>🌐 Worked remotely with Deloitte China as a Financial Accounting Advisory Intern, processing large volumes of data, evaluating audit reports, and enhancing financial analysis</p>
+📊 Served as a Developing Accountant Intern at Dream Unlimited. Inc, where I prepared financial reporting packages, streamlined transaction processes, automated recordings, and contributed significantly to ad-hoc projects.<br>
+🌐 Worked remotely with Deloitte China as a Financial Accounting Advisory Intern, processing large volumes of data, evaluating audit reports, and enhancing financial analysis
     <br>
 <h2>🎯 Current Ambition</h2>
 🔍 Actively seeking new opportunities– eager to bring my unique blend of academic prowess and practical wisdom to a dynamic team.<br>
 📂 Create my own portfolio, trying to showcase my diverse expertise, emphasizing my readiness for immediate contributions.
     <br>
 <h2>🤝 Let's Connect</h2>
-<p>☕ Open to discussions, be it a potential role, industry insights, or just some shared wisdom over a cup of coffee.</p>
-<p>🌐 Eager to learn, collaborate, and contribute in a dynamic team environment.</p>
-<p>💬 Whether it's potential job opportunities, collaborations, or just a friendly chat, I'm here and love to connect!</p>
+☕ Open to discussions, be it a potential role, industry insights, or just some shared wisdom over a cup of coffee.<br>
+🌐 Eager to learn, collaborate, and contribute in a dynamic team environment.<br>
+💬 Whether it's potential job opportunities, collaborations, or just a friendly chat, I'm here and love to connect!
 </p>
     <br>
   </samp>
