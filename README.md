@@ -7,6 +7,10 @@
 📚 Delved deep into courses like Data Analytics, Econometrics, Financial Modelling, and more.<br>
 💼 Actively to pursue designations in CFA & FRM.<br>
 🖥 Completed Google's Advanced Data Professional Certificate, honing my skills further.<br>
+<br>
+<h2>🌟 Professional Experience</h2>
+<p>📊 Served as a Developing Accountant Intern at Dream Unlimited. Inc, where I streamlined transaction processes, automated recordings, and contributed significantly to ad-hoc projects.</p>
+<p>🌐 Worked remotely with Deloitte China as a Financial Accounting Advisory Intern, processing large volumes of data, evaluating audit reports, and enhancing financial analysis</p>
 </p>
     <br>
   </samp>
