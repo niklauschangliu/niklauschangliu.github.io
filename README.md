@@ -13,8 +13,8 @@
 <p>🌐 Worked remotely with Deloitte China as a Financial Accounting Advisory Intern, processing large volumes of data, evaluating audit reports, and enhancing financial analysis</p>
     <br>
 <h2>🎯 Current Ambition</h2>
-<p>🔍 Actively seeking new opportunities– eager to bring my unique blend of academic prowess and practical wisdom to a dynamic team.</p>
-📂 Create my own portfolio, trying to showcase my diverse expertise, emphasizing my readiness for immediate contributions.</p>
+🔍 Actively seeking new opportunities– eager to bring my unique blend of academic prowess and practical wisdom to a dynamic team.
+📂 Create my own portfolio, trying to showcase my diverse expertise, emphasizing my readiness for immediate contributions.
     <br>
 <h2>🤝 Let's Connect</h2>
 <p>☕ Open to discussions, be it a potential role, industry insights, or just some shared wisdom over a cup of coffee.</p>
